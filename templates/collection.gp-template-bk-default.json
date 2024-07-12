@@ -8,6 +8,11 @@
 * ------------------------------------------------------------
 */
 {
+  "order": [
+    "collection_header_JKf7mh",
+    "collection_products_Fx3hb6",
+    "da87b500-2710-4252-99e4-4bd5db55af39"
+  ],
   "sections": {
     "collection_header_JKf7mh": {
       "type": "collection-header",
@@ -72,10 +77,5 @@
         "pb": 0
       }
     }
-  },
-  "order": [
-    "collection_header_JKf7mh",
-    "collection_products_Fx3hb6",
-    "da87b500-2710-4252-99e4-4bd5db55af39"
-  ]
+  }
 }
